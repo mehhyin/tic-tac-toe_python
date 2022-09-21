@@ -1,2 +1,2 @@
 # tic-tac-toe_python
-This is a project where I created a tic-tac-toe using python 
+This is a project where I created a tic-tac-toe using python during my short course in Python
